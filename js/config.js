@@ -115,6 +115,7 @@ window.SITE_CONFIG = {
           { keyword: "Khanabadosh Hotel Kumrat",      rank: 1, proof: "", url: "https://khanabadosh.pk/" },
           { keyword: "Luxury Glamps",        rank: 1, proof: "", url: "https://khanabadosh.pk/" }
         ]
+      },
       {
         title: "Rosa Clothing & Apparel Store",
         link: "https://rosastores.com/",
