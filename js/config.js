@@ -201,19 +201,19 @@ window.SITE_CONFIG = {
                   an empty list  results: []  shows no button.
          note     optional line shown above the screenshots */
     marketing: [
-      { title: "Origo Forlag AS (Norway)",       color: "#9810fa", tilt: -8,
+      { title: "Origo Forlag AS (Norway)",       color: "#00AD5C", tilt: -8,
         text: "We run Facbook Campign ",
         results: ["assets/img/portfolio/result-seo-campaign.png"], note: "" },
-      { title: "Latitude Resorts (Pakistan)",        color: "#e17100", tilt: -6,
+      { title: "Latitude Resorts (Pakistan)",        color: "#F6AF03", tilt: -6,
         text: "We run Facbook Campign",
         results: ["assets/img/portfolio/result-email.png"], note: "" },
       { title: "Baby Magasinet (Norway)", color: "#E22726", tilt: 3,
         text: "We run Facbook Campign",
         results: ["assets/img/portfolio/result-social.png"], note: "" },
-        { title: "Infinity Resorts (Pakistan",      color: "#ff6900", tilt: -4,
+        { title: "Infinity Resorts (Pakistan",      color: "#CF9E00", tilt: -4,
         text: "We run Facbook Campign",
         results: ["assets/img/portfolio/result-content.png"], note: "" },
-            { title: "Rosa Clothing & Apparel Store (Pakistan)",        color: "#111111", tilt: 7,
+            { title: "Rosa Clothing & Apparel Store (Pakistan)",        color: "#212121", tilt: 7,
         text: "We run Facbook Campign",
         results: ["assets/img/portfolio/result-ppc.png"], note: "" }
     ],
