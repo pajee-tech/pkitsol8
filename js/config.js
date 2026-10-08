@@ -215,7 +215,7 @@ window.SITE_CONFIG = {
         results: ["assets/img/portfolio/Infinity Resorts Performance.jpeg"], note: "" },
             { title: "Rosa Clothing & Apparel Store (Pakistan)",        color: "#212121", tilt: 7,
         text: "We run Facbook Campign",
-        results: ["assets/img/Rosa Stores Performance.jpeg"], note: "" }
+        results: ["assets/img/portfolio/Rosa Stores Performance.jpeg"], note: "" }
     ],
 
     /* Web Solutions tab. Add a website address and the page builds a laptop +
