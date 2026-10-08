@@ -203,19 +203,19 @@ window.SITE_CONFIG = {
     marketing: [
       { title: "Origo Forlag AS (Norway)",       color: "#00AD5C", tilt: -8,
         text: "We run Facbook Campign ",
-        results: ["assets/img/portfolio/result-seo-campaign.png"], note: ""  },
+        results: ["assets/img/portfolio/Origo Forlag As Performance.jpeg"], note: ""  },
       { title: "Latitude Resorts (Pakistan)",        color: "#F6AF03", tilt: -6,
         text: "We run Facbook Campign",
-        results: ["assets/img/portfolio/result-email.png"], note: "" },
+        results: ["assets/img/portfolio/Latitude Resorts Performance.jpeg"], note: "" },
       { title: "Baby Magasinet (Norway)", color: "#E22726", tilt: 3,
         text: "We run Facbook Campign",
-        results: ["assets/img/portfolio/result-social.png"], note: "" },
+        results: ["assets/img/portfolio/Babymagasinet Performance.jpeg"], note: "" },
         { title: "Infinity Resorts (Pakistan",      color: "#CF9E00", tilt: -4,
         text: "We run Facbook Campign",
-        results: ["assets/img/portfolio/result-content.png"], note: "" },
+        results: ["assets/img/portfolio/Infinity Resorts Performance.jpeg"], note: "" },
             { title: "Rosa Clothing & Apparel Store (Pakistan)",        color: "#212121", tilt: 7,
         text: "We run Facbook Campign",
-        results: ["assets/img/portfolio/result-ppc.png"], note: "" }
+        results: ["assets/img/Rosa Stores Performance.jpeg"], note: "" }
     ],
 
     /* Web Solutions tab. Add a website address and the page builds a laptop +
