@@ -98,6 +98,23 @@ window.SITE_CONFIG = {
                  page that opens when the rank number is clicked), url (ranked page)
        To add a project: copy one block, paste it after the last one, edit it. */
     seo: [
+            {
+        title: "Khanabdosh Glamps",
+        link: "https://khanabadosh.pk/",
+        image: "assets/img/portfolio/GSC - Rosa Stores.png",
+        remote: "https://techwiz-solution.vercel.app/Graph.png",
+        rows: [
+          { keyword: "Khanabadosh Glamps", rank: 1,  proof: "", url: "https://khanabadosh.pk/" },
+          { keyword: "Khanabadosh Glamps Murree",    rank: 1,  proof: "", url: "https://khanabadosh.pk/" },
+          { keyword: "Khanabadosh Glamps Kumrat",         rank: 1, proof: "", url: "https://khanabadosh.pk/" },
+          { keyword: "Kumrat Glamps",       rank: 1, proof: "", url: "https://khanabadosh.pk/" },
+          { keyword: "Murree Glamps",        rank: 1, proof: "", url: "https://khanabadosh.pk/" },
+          { keyword: "Khanabadosh Resort Kumrat", rank: 1, proof: "", url: "https://khanabadosh.pk/" },
+          { keyword: "Khanabadosh Huts Murree",   rank: 1, proof: "", url: "https://khanabadosh.pk/" },
+          { keyword: "Khanabadosh Pods",         rank: 1, proof: "", url: "https://khanabadosh.pk/" },
+          { keyword: "Khanabadosh Hotel Kumrat",      rank: 1, proof: "", url: "https://khanabadosh.pk/" },
+          { keyword: "Luxury Glamps",        rank: 1, proof: "", url: "https://khanabadosh.pk/" }
+        ]
       {
         title: "Rosa Clothing & Apparel Store",
         link: "https://rosastores.com/",
@@ -110,7 +127,7 @@ window.SITE_CONFIG = {
           { keyword: "Rosa Wear",       rank: 1, proof: "", url: "https://rosastores.com/" },
           { keyword: "Rosa Collection",        rank: 1, proof: "", url: "https://rosastores.com/" },
           { keyword: "Rosa Fashion Store", rank: 1, proof: "", url: "https://rosastores.com/" },
-          { keyword: " Rosa Clothing Store",   rank: 1, proof: "", url: "https://rosastores.com/" },
+          { keyword: "Rosa Clothing Store",   rank: 1, proof: "", url: "https://rosastores.com/" },
           { keyword: "Rosa Clothes",         rank: 1, proof: "", url: "https://rosastores.com/" },
           { keyword: "Rosa 2 Piece Dress",      rank: 1, proof: "", url: "https://rosastores.com/" },
           { keyword: "Rosa 3 Piece Suit",        rank: 1, proof: "", url: "https://rosastores.com/" }
