@@ -202,19 +202,19 @@ window.SITE_CONFIG = {
          note     optional line shown above the screenshots */
     marketing: [
       { title: "Origo Forlag AS (Norway)",       color: "#00AD5C", tilt: -8,
-        text: "• We successfully launched a Facebook video campaign that generated over 6K total views, driving an extraordinary 2.6K% increase in overall traffic and visibility.",
+        text: "We successfully launched a Facebook video campaign that generated over 6K total views, driving an extraordinary 2.6K% increase in overall traffic and visibility.",
         results: ["assets/img/portfolio/Origo Forlag As Performance.jpeg"], note: ""  },
       { title: "Latitude Resorts (Pakistan)",        color: "#F6AF03", tilt: -6,
-        text: "• Our targeted Facebook video ads drove exceptional results, securing 1.9 million total views along with an impressive 82% increase in audience content interactions.",
+        text: "Our targeted Facebook video ads drove exceptional results, securing 1.9 million total views along with an impressive 82% increase in audience content interactions.",
         results: ["assets/img/portfolio/Latitude Resorts Performance.jpeg"], note: "" },
       { title: "Baby Magasinet (Norway)", color: "#E22726", tilt: 3,
-        text: "• Through a high-performing Facebook video ad strategy, we delivered over 17K views and triggered an impressive 202.9% spike in audience engagement.",
+        text: "Through a high-performing Facebook video ad strategy, we delivered over 17K views and triggered an impressive 202.9% spike in audience engagement.",
         results: ["assets/img/portfolio/Babymagasinet Performance.jpeg"], note: "" },
         { title: "Infinity Resorts (Pakistan",      color: "#CF9E00", tilt: -4,
         text: "We optimized a dedicated Facebook video campaign that scaled platform visibility, yielding 1.6 million views and boosting total watch time by 555.7%.",
         results: ["assets/img/portfolio/Infinity Resorts Performance.jpeg"], note: "" },
             { title: "Rosa Clothing & Apparel Store (Pakistan)",        color: "#212121", tilt: 7,
-        text: " Our custom Facebook video ad setup catalyzed significant growth for the storefront, bringing in over 2.7 million views and driving a massive 66.8% increase in 3-second views.",
+        text: "Our custom Facebook video ad setup catalyzed significant growth for the storefront, bringing in over 2.7 million views and driving a massive 66.8% increase in 3-second views.",
         results: ["assets/img/portfolio/Rosa Stores Performance.jpeg"], note: "" }
     ],
 
