@@ -201,21 +201,21 @@ window.SITE_CONFIG = {
                   an empty list  results: []  shows no button.
          note     optional line shown above the screenshots */
     marketing: [
-      { title: "SEO Optimization",       color: "#9810fa", tilt: -8,
-        text: "Keyword targeting, technical fixes and faster pages that move you up the search results.",
+      { title: "Origo Forlag AS (Norway)",       color: "#9810fa", tilt: -8,
+        text: "We run Facbook Campign ",
         results: ["assets/img/portfolio/result-seo-campaign.png"], note: "" },
-      { title: "Content Marketing",      color: "#ff6900", tilt: -4,
-        text: "Content plans that earn attention, build authority and bring steady organic traffic.",
-        results: ["assets/img/portfolio/result-content.png"], note: "" },
-      { title: "Social Media Marketing", color: "#00a63e", tilt: 3,
-        text: "Creative campaigns that grow your following, build loyalty and turn fans into buyers.",
+      { title: "Latitude Resorts (Pakistan)",        color: "#e17100", tilt: -6,
+        text: "We run Facbook Campign",
+        results: ["assets/img/portfolio/result-email.png"], note: "" },
+      { title: "Baby Magasinet (Norway)", color: "#00a63e", tilt: 3,
+        text: "We run Facbook Campign",
         results: ["assets/img/portfolio/result-social.png"], note: "" },
-      { title: "PPC Advertising",        color: "#155dfc", tilt: 7,
-        text: "Google and Meta campaigns with tight targeting and results you can measure.",
-        results: ["assets/img/portfolio/result-ppc.png"], note: "" },
-      { title: "Email Marketing",        color: "#e17100", tilt: -6,
-        text: "Automated, personal emails that nurture leads and keep customers returning.",
-        results: ["assets/img/portfolio/result-email.png"], note: "" }
+        { title: "Infinity Resorts (Pakistan",      color: "#ff6900", tilt: -4,
+        text: "We run Facbook Campign",
+        results: ["assets/img/portfolio/result-content.png"], note: "" },
+            { title: "Rosa Clothing & Apparel Store (Pakistan)",        color: "#155dfc", tilt: 7,
+        text: "We run Facbook Campign",
+        results: ["assets/img/portfolio/result-ppc.png"], note: "" }
     ],
 
     /* Web Solutions tab. Add a website address and the page builds a laptop +
