@@ -99,6 +99,24 @@ window.SITE_CONFIG = {
        To add a project: copy one block, paste it after the last one, edit it. */
     seo: [
       {
+        title: "Rosa Clothing & Apparel Store",
+        link: "https://rosastores.com/",
+        image: "assets/img/portfolio/GSC - Rosa Stores.png",
+        remote: "https://techwiz-solution.vercel.app/Graph.png",
+        rows: [
+          { keyword: "sintered stone flooring", rank: 1,  proof: "https://i.imgur.com/lSY8kcm.png", url: "https://www.twoguys.ae/floors/sintered-stone/" },
+          { keyword: "linen curtains dubai",    rank: 1,  proof: "https://i.imgur.com/KGWiNyR.png", url: "https://www.twoguys.ae/curtains/linen-curtains/" },
+          { keyword: "Home Furnishing",         rank: 2, proof: "https://i.imgur.com/U9shyx0.png", url: "https://www.twoguys.ae/" },
+          { keyword: "shutters in Dubai",       rank: 2, proof: "https://i.imgur.com/jlHLRTG.png", url: "https://www.twoguys.ae/shutters/" },
+          { keyword: "LVT flooring UAE",        rank: 3, proof: "https://i.imgur.com/OHxbZeg.png", url: "https://www.twoguys.ae/floors/lvt/" },
+          { keyword: "blackout curtains dubai", rank: 3, proof: "https://i.imgur.com/7NfGVdP.png", url: "https://www.twoguys.ae/curtains/blackout-curtains/" },
+          { keyword: "Window Curtains Dubai",   rank: 3, proof: "https://www.twoguys.ae/curtains/", url: "https://www.twoguys.ae/curtains/" },
+          { keyword: "blinds in dubai",         rank: 4, proof: "https://i.imgur.com/DCjFJTz.png", url: "https://www.twoguys.ae/blinds/" },
+          { keyword: "SPC flooring dubai",      rank: 4, proof: "https://i.imgur.com/o97DbQq.png", url: "https://www.twoguys.ae/floors/spc/" },
+          { keyword: "wall decor dubai",        rank: 4, proof: "https://i.imgur.com/JGhNT7f.png", url: "https://www.twoguys.ae/furniture/bedroom/" }
+        ]
+      },
+      {
         title: "Two Guys",
         link: "https://www.twoguys.ae/",
         image: "assets/img/portfolio/gsc-two-guys.png",
