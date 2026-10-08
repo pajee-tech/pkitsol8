@@ -213,7 +213,7 @@ window.SITE_CONFIG = {
         { title: "Infinity Resorts (Pakistan",      color: "#ff6900", tilt: -4,
         text: "We run Facbook Campign",
         results: ["assets/img/portfolio/result-content.png"], note: "" },
-            { title: "Rosa Clothing & Apparel Store (Pakistan)",        color: "#F9F9F9", tilt: 7,
+            { title: "Rosa Clothing & Apparel Store (Pakistan)",        color: "#111111", tilt: 7,
         text: "We run Facbook Campign",
         results: ["assets/img/portfolio/result-ppc.png"], note: "" }
     ],
