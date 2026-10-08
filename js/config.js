@@ -208,7 +208,7 @@ window.SITE_CONFIG = {
         text: "We run Facbook Campign",
         results: ["assets/img/portfolio/Latitude Resorts Performance.jpeg"], note: "" },
       { title: "Baby Magasinet (Norway)", color: "#E22726", tilt: 3,
-        text: "We run Facbook Campign",
+        text: "• Campaign: Facebook Video Ads, • Result: 1.9M+ Total Views, • Growth: +27.4% Higher Reach",
         results: ["assets/img/portfolio/Babymagasinet Performance.jpeg"], note: "" },
         { title: "Infinity Resorts (Pakistan",      color: "#CF9E00", tilt: -4,
         text: "We run Facbook Campign",
