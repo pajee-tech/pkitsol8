@@ -206,7 +206,7 @@ window.SITE_CONFIG = {
         results: ["assets/img/portfolio/result-seo-campaign.png"], note: "" },
       { title: "Latitude Resorts (Pakistan)",        color: "#F6AF03", tilt: -6,
         text: "We run Facbook Campign",
-        results: ["assets/img/portfolio/result-email.png"], note: "Sam" },
+        results: ["assets/img/portfolio/result-email.png"], note: "Sam: url: "https://interiorfilm.ae/product/offwhite-fabric-vinyl" },
       { title: "Baby Magasinet (Norway)", color: "#E22726", tilt: 3,
         text: "We run Facbook Campign",
         results: ["assets/img/portfolio/result-social.png"], note: "" },
