@@ -203,7 +203,7 @@ window.SITE_CONFIG = {
     marketing: [
       { title: "Origo Forlag AS (Norway)",       color: "#00AD5C", tilt: -8,
         text: "We run Facbook Campign ",
-        results: ["assets/img/portfolio/result-seo-campaign.png"], note: "" },
+        results: ["assets/img/portfolio/result-seo-campaign.png"], note: "<a href="https://origoforlag.no" target="_blank" style="color: #00AD5C; text-decoration: underline;">Origo Forlag AS</a>" },
       { title: "Latitude Resorts (Pakistan)",        color: "#F6AF03", tilt: -6,
         text: "We run Facbook Campign",
         results: ["assets/img/portfolio/result-email.png"], note: "" },
