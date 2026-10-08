@@ -207,7 +207,7 @@ window.SITE_CONFIG = {
       { title: "Latitude Resorts (Pakistan)",        color: "#e17100", tilt: -6,
         text: "We run Facbook Campign",
         results: ["assets/img/portfolio/result-email.png"], note: "" },
-      { title: "Baby Magasinet (Norway)", color: "#00a63e", tilt: 3,
+      { title: "Baby Magasinet (Norway)", color: "#E22726", tilt: 3,
         text: "We run Facbook Campign",
         results: ["assets/img/portfolio/result-social.png"], note: "" },
         { title: "Infinity Resorts (Pakistan",      color: "#ff6900", tilt: -4,
