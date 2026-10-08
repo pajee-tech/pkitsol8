@@ -101,7 +101,7 @@ window.SITE_CONFIG = {
             {
         title: "Khanabdosh Glamps",
         link: "https://khanabadosh.pk/",
-        image: "assets/img/portfolio/GSC - Rosa Stores.png",
+        image: "assets/img/portfolio/GSC - Khanabadosh.png",
         remote: "https://techwiz-solution.vercel.app/Graph.png",
         rows: [
           { keyword: "Khanabadosh Glamps", rank: 1,  proof: "", url: "https://khanabadosh.pk/" },
