@@ -104,16 +104,16 @@ window.SITE_CONFIG = {
         image: "assets/img/portfolio/GSC - Rosa Stores.png",
         remote: "https://techwiz-solution.vercel.app/Graph.png",
         rows: [
-          { keyword: "sintered stone flooring", rank: 1,  proof: "https://i.imgur.com/lSY8kcm.png", url: "https://www.twoguys.ae/floors/sintered-stone/" },
-          { keyword: "linen curtains dubai",    rank: 1,  proof: "https://i.imgur.com/KGWiNyR.png", url: "https://www.twoguys.ae/curtains/linen-curtains/" },
-          { keyword: "Home Furnishing",         rank: 2, proof: "https://i.imgur.com/U9shyx0.png", url: "https://www.twoguys.ae/" },
-          { keyword: "shutters in Dubai",       rank: 2, proof: "https://i.imgur.com/jlHLRTG.png", url: "https://www.twoguys.ae/shutters/" },
-          { keyword: "LVT flooring UAE",        rank: 3, proof: "https://i.imgur.com/OHxbZeg.png", url: "https://www.twoguys.ae/floors/lvt/" },
-          { keyword: "blackout curtains dubai", rank: 3, proof: "https://i.imgur.com/7NfGVdP.png", url: "https://www.twoguys.ae/curtains/blackout-curtains/" },
-          { keyword: "Window Curtains Dubai",   rank: 3, proof: "https://www.twoguys.ae/curtains/", url: "https://www.twoguys.ae/curtains/" },
-          { keyword: "blinds in dubai",         rank: 4, proof: "https://i.imgur.com/DCjFJTz.png", url: "https://www.twoguys.ae/blinds/" },
-          { keyword: "SPC flooring dubai",      rank: 4, proof: "https://i.imgur.com/o97DbQq.png", url: "https://www.twoguys.ae/floors/spc/" },
-          { keyword: "wall decor dubai",        rank: 4, proof: "https://i.imgur.com/JGhNT7f.png", url: "https://www.twoguys.ae/furniture/bedroom/" }
+          { keyword: "Rosa Boutique", rank: 1,  proof: "", url: "https://rosastores.com/" },
+          { keyword: "Rosa Outfits",    rank: 1,  proof: "", url: "https://rosastores.com/" },
+          { keyword: "Rosa Clothing Dress",         rank: 1, proof: "", url: "https://rosastores.com/" },
+          { keyword: "Rosa Wear",       rank: 1, proof: "", url: "https://rosastores.com/" },
+          { keyword: "Rosa Collection",        rank: 1, proof: "", url: "https://rosastores.com/" },
+          { keyword: "Rosa Fashion Store", rank: 1, proof: "", url: "https://rosastores.com/" },
+          { keyword: " Rosa Clothing Store",   rank: 1, proof: "", url: "https://rosastores.com/" },
+          { keyword: "Rosa Clothes",         rank: 1, proof: "", url: "https://rosastores.com/" },
+          { keyword: "Rosa 2 Piece Dress",      rank: 1, proof: "", url: "https://rosastores.com/" },
+          { keyword: "Rosa 3 Piece Suit",        rank: 1, proof: "", url: "https://rosastores.com/" }
         ]
       },
       {
@@ -122,16 +122,16 @@ window.SITE_CONFIG = {
         image: "assets/img/portfolio/gsc-two-guys.png",
         remote: "https://techwiz-solution.vercel.app/Graph.png",
         rows: [
-          { keyword: "sintered stone flooring", rank: 1,  proof: "https://i.imgur.com/lSY8kcm.png", url: "https://www.twoguys.ae/floors/sintered-stone/" },
-          { keyword: "linen curtains dubai",    rank: 1,  proof: "https://i.imgur.com/KGWiNyR.png", url: "https://www.twoguys.ae/curtains/linen-curtains/" },
+          { keyword: "Sintered Stone Flooring", rank: 1,  proof: "https://i.imgur.com/lSY8kcm.png", url: "https://www.twoguys.ae/floors/sintered-stone/" },
+          { keyword: "Linen Curtains Dubai",    rank: 1,  proof: "https://i.imgur.com/KGWiNyR.png", url: "https://www.twoguys.ae/curtains/linen-curtains/" },
           { keyword: "Home Furnishing",         rank: 2, proof: "https://i.imgur.com/U9shyx0.png", url: "https://www.twoguys.ae/" },
-          { keyword: "shutters in Dubai",       rank: 2, proof: "https://i.imgur.com/jlHLRTG.png", url: "https://www.twoguys.ae/shutters/" },
-          { keyword: "LVT flooring UAE",        rank: 3, proof: "https://i.imgur.com/OHxbZeg.png", url: "https://www.twoguys.ae/floors/lvt/" },
-          { keyword: "blackout curtains dubai", rank: 3, proof: "https://i.imgur.com/7NfGVdP.png", url: "https://www.twoguys.ae/curtains/blackout-curtains/" },
+          { keyword: "Shutters in Dubai",       rank: 2, proof: "https://i.imgur.com/jlHLRTG.png", url: "https://www.twoguys.ae/shutters/" },
+          { keyword: "LVT Flooring UAE",        rank: 3, proof: "https://i.imgur.com/OHxbZeg.png", url: "https://www.twoguys.ae/floors/lvt/" },
+          { keyword: "Blackout Curtains Dubai", rank: 3, proof: "https://i.imgur.com/7NfGVdP.png", url: "https://www.twoguys.ae/curtains/blackout-curtains/" },
           { keyword: "Window Curtains Dubai",   rank: 3, proof: "https://www.twoguys.ae/curtains/", url: "https://www.twoguys.ae/curtains/" },
-          { keyword: "blinds in dubai",         rank: 4, proof: "https://i.imgur.com/DCjFJTz.png", url: "https://www.twoguys.ae/blinds/" },
-          { keyword: "SPC flooring dubai",      rank: 4, proof: "https://i.imgur.com/o97DbQq.png", url: "https://www.twoguys.ae/floors/spc/" },
-          { keyword: "wall decor dubai",        rank: 4, proof: "https://i.imgur.com/JGhNT7f.png", url: "https://www.twoguys.ae/furniture/bedroom/" }
+          { keyword: "Blinds in dubai",         rank: 4, proof: "https://i.imgur.com/DCjFJTz.png", url: "https://www.twoguys.ae/blinds/" },
+          { keyword: "SPC Flooring Dubai",      rank: 4, proof: "https://i.imgur.com/o97DbQq.png", url: "https://www.twoguys.ae/floors/spc/" },
+          { keyword: "Wall Decor Dubai",        rank: 4, proof: "https://i.imgur.com/JGhNT7f.png", url: "https://www.twoguys.ae/furniture/bedroom/" }
         ]
       },
       {
@@ -140,16 +140,16 @@ window.SITE_CONFIG = {
         image: "assets/img/portfolio/gsc-bnc.png",
         remote: "https://techwiz-solution.vercel.app/blindgraph.png",
         rows: [
-          { keyword: "dubai curtains and blinds", rank: 1, proof: "https://i.imgur.com/4lIsfVU.png", url: "https://blindsandcurtains.ae/" },
-          { keyword: "motorised curtains",        rank: 1, proof: "https://i.imgur.com/V6rRZiZ.png", url: "https://blindsandcurtains.ae/curtains/motorised-curtains/" },
-          { keyword: "dubai blinds",              rank: 1, proof: "https://i.imgur.com/RVglZtR.png", url: "https://blindsandcurtains.ae/" },
-          { keyword: "conservatory blinds",       rank: 1, proof: "https://i.imgur.com/U4WS8xk.png", url: "https://blindsandcurtains.ae/blinds/conservatory-blinds/" },
-          { keyword: "full height shutters",      rank: 1, proof: "https://i.imgur.com/B8sgbJJ.png", url: "https://blindsandcurtains.ae/shutters-range/full-heig/" },
-          { keyword: "office curtains",           rank: 1, proof: "https://i.imgur.com/jIs6iFO.png", url: "https://blindsandcurtains.ae/curtains/office-window-curtains/" },
-          { keyword: "duplex blinds dubai",       rank: 1, proof: "https://i.imgur.com/T4FG9Wc.png", url: "https://blindsandcurtains.ae/blinds/duplex-blinds/" },
-          { keyword: "outdoor blinds dubai",      rank: 1, proof: "https://blindsandcurtains.ae/balcony-blinds-and-curtains/", url: "https://blindsandcurtains.ae/balcony-blinds-and-curtains/" },
-          { keyword: "motorised curtains",        rank: 1, proof: "https://i.imgur.com/QygFSUg.png", url: "https://blindsandcurtains.ae/curtains/motorised-curtains/" },
-          { keyword: "blackout roller blinds",    rank: 1, proof: "https://i.imgur.com/D33DhGo.png", url: "https://blindsandcurtains.ae/blinds/roller-blinds/blackout-roller-blinds/" }
+          { keyword: "Dubai Curtains and Blinds", rank: 1, proof: "https://i.imgur.com/4lIsfVU.png", url: "https://blindsandcurtains.ae/" },
+          { keyword: "Motorised Curtains",        rank: 1, proof: "https://i.imgur.com/V6rRZiZ.png", url: "https://blindsandcurtains.ae/curtains/motorised-curtains/" },
+          { keyword: "Dubai Blinds",              rank: 1, proof: "https://i.imgur.com/RVglZtR.png", url: "https://blindsandcurtains.ae/" },
+          { keyword: "Conservatory Blinds",       rank: 1, proof: "https://i.imgur.com/U4WS8xk.png", url: "https://blindsandcurtains.ae/blinds/conservatory-blinds/" },
+          { keyword: "Full Height Shutters",      rank: 1, proof: "https://i.imgur.com/B8sgbJJ.png", url: "https://blindsandcurtains.ae/shutters-range/full-heig/" },
+          { keyword: "Office Curtains",           rank: 1, proof: "https://i.imgur.com/jIs6iFO.png", url: "https://blindsandcurtains.ae/curtains/office-window-curtains/" },
+          { keyword: "Duplex Blinds Dubai",       rank: 1, proof: "https://i.imgur.com/T4FG9Wc.png", url: "https://blindsandcurtains.ae/blinds/duplex-blinds/" },
+          { keyword: "Outdoor Blinds Dubai",      rank: 1, proof: "https://blindsandcurtains.ae/balcony-blinds-and-curtains/", url: "https://blindsandcurtains.ae/balcony-blinds-and-curtains/" },
+          { keyword: "Motorised Curtains",        rank: 1, proof: "https://i.imgur.com/QygFSUg.png", url: "https://blindsandcurtains.ae/curtains/motorised-curtains/" },
+          { keyword: "Blackout Roller Blinds",    rank: 1, proof: "https://i.imgur.com/D33DhGo.png", url: "https://blindsandcurtains.ae/blinds/roller-blinds/blackout-roller-blinds/" }
         ]
       },
       {
