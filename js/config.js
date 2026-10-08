@@ -105,15 +105,15 @@ window.SITE_CONFIG = {
         remote: "https://techwiz-solution.vercel.app/Graph.png",
         rows: [
           { keyword: "sintered stone flooring", rank: 1,  proof: "https://i.imgur.com/lSY8kcm.png", url: "https://www.twoguys.ae/floors/sintered-stone/" },
-          { keyword: "linen curtains dubai",    rank: 9,  proof: "https://i.imgur.com/KGWiNyR.png", url: "https://www.twoguys.ae/curtains/linen-curtains/" },
-          { keyword: "Home Furnishing",         rank: 11, proof: "https://i.imgur.com/U9shyx0.png", url: "https://www.twoguys.ae/" },
-          { keyword: "shutters in Dubai",       rank: 15, proof: "https://i.imgur.com/jlHLRTG.png", url: "https://www.twoguys.ae/shutters/" },
-          { keyword: "LVT flooring UAE",        rank: 28, proof: "https://i.imgur.com/OHxbZeg.png", url: "https://www.twoguys.ae/floors/lvt/" },
-          { keyword: "blackout curtains dubai", rank: 29, proof: "https://i.imgur.com/7NfGVdP.png", url: "https://www.twoguys.ae/curtains/blackout-curtains/" },
-          { keyword: "Window Curtains Dubai",   rank: 30, proof: "https://www.twoguys.ae/curtains/", url: "https://www.twoguys.ae/curtains/" },
-          { keyword: "blinds in dubai",         rank: 33, proof: "https://i.imgur.com/DCjFJTz.png", url: "https://www.twoguys.ae/blinds/" },
-          { keyword: "SPC flooring dubai",      rank: 35, proof: "https://i.imgur.com/o97DbQq.png", url: "https://www.twoguys.ae/floors/spc/" },
-          { keyword: "wall decor dubai",        rank: 35, proof: "https://i.imgur.com/JGhNT7f.png", url: "https://www.twoguys.ae/furniture/bedroom/" }
+          { keyword: "linen curtains dubai",    rank: 1,  proof: "https://i.imgur.com/KGWiNyR.png", url: "https://www.twoguys.ae/curtains/linen-curtains/" },
+          { keyword: "Home Furnishing",         rank: 2, proof: "https://i.imgur.com/U9shyx0.png", url: "https://www.twoguys.ae/" },
+          { keyword: "shutters in Dubai",       rank: 2, proof: "https://i.imgur.com/jlHLRTG.png", url: "https://www.twoguys.ae/shutters/" },
+          { keyword: "LVT flooring UAE",        rank: 3, proof: "https://i.imgur.com/OHxbZeg.png", url: "https://www.twoguys.ae/floors/lvt/" },
+          { keyword: "blackout curtains dubai", rank: 3, proof: "https://i.imgur.com/7NfGVdP.png", url: "https://www.twoguys.ae/curtains/blackout-curtains/" },
+          { keyword: "Window Curtains Dubai",   rank: 3, proof: "https://www.twoguys.ae/curtains/", url: "https://www.twoguys.ae/curtains/" },
+          { keyword: "blinds in dubai",         rank: 4, proof: "https://i.imgur.com/DCjFJTz.png", url: "https://www.twoguys.ae/blinds/" },
+          { keyword: "SPC flooring dubai",      rank: 4, proof: "https://i.imgur.com/o97DbQq.png", url: "https://www.twoguys.ae/floors/spc/" },
+          { keyword: "wall decor dubai",        rank: 4, proof: "https://i.imgur.com/JGhNT7f.png", url: "https://www.twoguys.ae/furniture/bedroom/" }
         ]
       },
       {
@@ -122,16 +122,16 @@ window.SITE_CONFIG = {
         image: "assets/img/portfolio/gsc-bnc.png",
         remote: "https://techwiz-solution.vercel.app/blindgraph.png",
         rows: [
-          { keyword: "dubai curtains and blinds", rank: 2, proof: "https://i.imgur.com/4lIsfVU.png", url: "https://blindsandcurtains.ae/" },
-          { keyword: "motorised curtains",        rank: 2, proof: "https://i.imgur.com/V6rRZiZ.png", url: "https://blindsandcurtains.ae/curtains/motorised-curtains/" },
-          { keyword: "dubai blinds",              rank: 2, proof: "https://i.imgur.com/RVglZtR.png", url: "https://blindsandcurtains.ae/" },
-          { keyword: "conservatory blinds",       rank: 2, proof: "https://i.imgur.com/U4WS8xk.png", url: "https://blindsandcurtains.ae/blinds/conservatory-blinds/" },
-          { keyword: "full height shutters",      rank: 3, proof: "https://i.imgur.com/B8sgbJJ.png", url: "https://blindsandcurtains.ae/shutters-range/full-heig/" },
-          { keyword: "office curtains",           rank: 3, proof: "https://i.imgur.com/jIs6iFO.png", url: "https://blindsandcurtains.ae/curtains/office-window-curtains/" },
-          { keyword: "duplex blinds dubai",       rank: 3, proof: "https://i.imgur.com/T4FG9Wc.png", url: "https://blindsandcurtains.ae/blinds/duplex-blinds/" },
-          { keyword: "outdoor blinds dubai",      rank: 4, proof: "https://blindsandcurtains.ae/balcony-blinds-and-curtains/", url: "https://blindsandcurtains.ae/balcony-blinds-and-curtains/" },
-          { keyword: "motorised curtains",        rank: 6, proof: "https://i.imgur.com/QygFSUg.png", url: "https://blindsandcurtains.ae/curtains/motorised-curtains/" },
-          { keyword: "blackout roller blinds",    rank: 6, proof: "https://i.imgur.com/D33DhGo.png", url: "https://blindsandcurtains.ae/blinds/roller-blinds/blackout-roller-blinds/" }
+          { keyword: "dubai curtains and blinds", rank: 1, proof: "https://i.imgur.com/4lIsfVU.png", url: "https://blindsandcurtains.ae/" },
+          { keyword: "motorised curtains",        rank: 1, proof: "https://i.imgur.com/V6rRZiZ.png", url: "https://blindsandcurtains.ae/curtains/motorised-curtains/" },
+          { keyword: "dubai blinds",              rank: 1, proof: "https://i.imgur.com/RVglZtR.png", url: "https://blindsandcurtains.ae/" },
+          { keyword: "conservatory blinds",       rank: 1, proof: "https://i.imgur.com/U4WS8xk.png", url: "https://blindsandcurtains.ae/blinds/conservatory-blinds/" },
+          { keyword: "full height shutters",      rank: 1, proof: "https://i.imgur.com/B8sgbJJ.png", url: "https://blindsandcurtains.ae/shutters-range/full-heig/" },
+          { keyword: "office curtains",           rank: 1, proof: "https://i.imgur.com/jIs6iFO.png", url: "https://blindsandcurtains.ae/curtains/office-window-curtains/" },
+          { keyword: "duplex blinds dubai",       rank: 1, proof: "https://i.imgur.com/T4FG9Wc.png", url: "https://blindsandcurtains.ae/blinds/duplex-blinds/" },
+          { keyword: "outdoor blinds dubai",      rank: 1, proof: "https://blindsandcurtains.ae/balcony-blinds-and-curtains/", url: "https://blindsandcurtains.ae/balcony-blinds-and-curtains/" },
+          { keyword: "motorised curtains",        rank: 1, proof: "https://i.imgur.com/QygFSUg.png", url: "https://blindsandcurtains.ae/curtains/motorised-curtains/" },
+          { keyword: "blackout roller blinds",    rank: 1, proof: "https://i.imgur.com/D33DhGo.png", url: "https://blindsandcurtains.ae/blinds/roller-blinds/blackout-roller-blinds/" }
         ]
       },
       {
@@ -146,10 +146,10 @@ window.SITE_CONFIG = {
           { keyword: "Offwhite Fabric Vinyl",     rank: 1, proof: "https://i.imgur.com/lWinmSJ.png", url: "https://interiorfilm.ae/product/offwhite-fabric-vinyl" },
           { keyword: "White Vinyl Film",          rank: 1, proof: "https://i.imgur.com/PCLnfCd.png", url: "https://interiorfilm.ae/product/pure-white-vinyl-film" },
           { keyword: "Interior Film Accessories", rank: 1, proof: "https://i.imgur.com/M5TL6qz.png", url: "https://interiorfilm.ae/" },
-          { keyword: "wood vinyl wrap",           rank: 2, proof: "https://i.imgur.com/WRa05ZP.png", url: "https://interiorfilm.ae/products?category=wood-grain-series" },
-          { keyword: "Grey Wood Vinyl",           rank: 2, proof: "https://i.imgur.com/uPqLixN.png", url: "https://interiorfilm.ae/product/grey-wood-vinyl" },
-          { keyword: "Metallic Vinyl",            rank: 3, proof: "https://i.imgur.com/rptamdb.png", url: "https://interiorfilm.ae/product/metallic-silver-vinyl" },
-          { keyword: "Marble Wrap",               rank: 3, proof: "https://i.imgur.com/yQcwRM8.png", url: "https://interiorfilm.ae/product/grey-marble-vinyl-wrap" }
+          { keyword: "wood vinyl wrap",           rank: 1, proof: "https://i.imgur.com/WRa05ZP.png", url: "https://interiorfilm.ae/products?category=wood-grain-series" },
+          { keyword: "Grey Wood Vinyl",           rank: 1, proof: "https://i.imgur.com/uPqLixN.png", url: "https://interiorfilm.ae/product/grey-wood-vinyl" },
+          { keyword: "Metallic Vinyl",            rank: 1, proof: "https://i.imgur.com/rptamdb.png", url: "https://interiorfilm.ae/product/metallic-silver-vinyl" },
+          { keyword: "Marble Wrap",               rank: 1, proof: "https://i.imgur.com/yQcwRM8.png", url: "https://interiorfilm.ae/product/grey-marble-vinyl-wrap" }
         ]
       }
     ],
