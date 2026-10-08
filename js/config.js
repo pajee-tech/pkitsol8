@@ -202,7 +202,7 @@ window.SITE_CONFIG = {
          note     optional line shown above the screenshots */
     marketing: [
       { title: "Origo Forlag AS (Norway)",       color: "#00AD5C", tilt: -8,
-        text: "We run Facbook Campign ",
+        text: "• Campaign: Facebook Video Ads\n• Result: 17K+ Views Delivered\n• Growth: +202.9% View Spike",
         results: ["assets/img/portfolio/Origo Forlag As Performance.jpeg"], note: ""  },
       { title: "Latitude Resorts (Pakistan)",        color: "#F6AF03", tilt: -6,
         text: "We run Facbook Campign",
