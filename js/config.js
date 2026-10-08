@@ -227,10 +227,10 @@ window.SITE_CONFIG = {
          mobileImage  optional: your own phone screenshot
          phone        set to false to hide the phone mockup */
     web: [
-      { url: "https://homyn.org/",           title: "Homyn Events" },
+      { url: "https://origoforlag.no/",           title: "Origo Forlag AS" },
       { url: "https://khanabadosh.pk/",      title: "Khanabadosh Glamps" },
       { url: "https://rosastores.pk/",       title: "Rosa Lifestyle Hub" },
-      { url: "https://apex.no/",             title: "Apex Sportsernæring" }
+      { url: "https://babymagasinetas.no/",             title: "Baby Magasinet" }
     ]
   },
 
