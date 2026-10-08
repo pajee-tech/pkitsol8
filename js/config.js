@@ -12,7 +12,7 @@
  *  reads correctly for search engines and with JavaScript turned off.)
  */
 window.SITE_CONFIG = {
-  name: "PK IT Sol",
+  name: "PK IT SOLUTIONS",
   tagline: "Your Digital Partner",
 
   phone: "+923006540558",          // used for tel: links and shown as text
