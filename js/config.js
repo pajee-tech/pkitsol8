@@ -23,7 +23,8 @@ window.SITE_CONFIG = {
 
   address: "Plaza Number 55, Office Number 505 5th Floor, Civic Center Bahria Town Phase 4 Bahria Town, Islamabad, 44000",
   // Search text for the Google Maps embed. Leave empty to use the address above.
-  mapQuery: "Plaza Number 55, Civic Center, Bahria Town Phase 4, Islamabad 44000",
+  // mapQuery: "Plaza Number 55, Civic Center, Bahria Town Phase 4, Islamabad 44000",
+  mapQuery: "33.548921, 73.124567"
 
   // Social profiles. An icon is hidden automatically while its URL is empty.
   social: {
